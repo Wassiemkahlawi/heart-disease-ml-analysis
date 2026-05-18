@@ -11,3 +11,6 @@ Analysis of a heart disease dataset with a focus on:
 
 ## Building with python
 
+## Learnings 
+
+- Learned how to interpreter a heat-map and how to draw conclusions from it
