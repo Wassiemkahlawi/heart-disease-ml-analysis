@@ -14,3 +14,4 @@ Analysis of a heart disease dataset with a focus on:
 ## Learnings 
 
 - Learned how to interpreter a heat-map and how to draw conclusions from it
+- Learned hot to interpreter a boxplor and how to draw usefull conclusions out of it
