@@ -19,4 +19,5 @@ Analysis of a heart disease dataset with a focus on:
 
 ## Todos
 
-- dive deeper in the analysis of the slope variable
+- Systematic Feature-vs-Target Analysis
+ 
