@@ -20,4 +20,4 @@ Analysis of a heart disease dataset with a focus on:
 ## Todos
 
 - Systematic Feature-vs-Target Analysis
- 
+- Outliere Analysis for all Numerec features
