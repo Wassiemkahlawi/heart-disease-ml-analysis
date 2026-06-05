@@ -16,6 +16,8 @@ Analysis of a heart disease dataset with a focus on:
 - Learned how to interpreter a heat-map and how to draw conclusions from it
 - Learned hot to interpreter a boxplor and how to draw usefull conclusions out of it
 - Learned about the slope variable and there medical theory
+- Learned how to setup hypothesis and do more detailed eda
+- Learned how to do multiple variable eda
 
 ## Todos
 
