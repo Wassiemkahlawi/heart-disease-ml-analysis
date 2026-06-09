@@ -24,3 +24,4 @@ Analysis of a heart disease dataset with a focus on:
 - Systematic Feature-vs-Target Analysis
 - Outliere Analysis for all Numerec features
 - outliere Analysis for all categoric features
+- Analysis for the sex variable as a third party indicator
