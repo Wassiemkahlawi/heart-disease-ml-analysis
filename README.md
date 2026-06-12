@@ -21,7 +21,10 @@ Analysis of a heart disease dataset with a focus on:
 
 ## Todos
 
-- Systematic Feature-vs-Target Analysis
-- Outliere Analysis for all Numerec features
-- outliere Analysis for all categoric features
-- Analysis for the sex variable as a third party indicator
+- Systematic Feature-vs-Target analysis☑️
+- Outliere analysis for all numerec features☑️
+- Outliere analysis for all categoric features☑️
+- Analysis for the sex variable as a third party indicator☑️
+- Makeing a ranking list of the variabls 
+- Deeper analysis of the features with the highest corraltation
+- Feature interaction analysis
