@@ -41,3 +41,4 @@ Analysis of a heart disease dataset with a focus on:
 - Makeing a ranking list of the variabls 🔄
 - Deeper analysis of the features with the highest corraltation🔄
 - Feature interaction analysis⏳
+- Exang feature analysis
