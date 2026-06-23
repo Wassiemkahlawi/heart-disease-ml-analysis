@@ -42,3 +42,7 @@ Analysis of a heart disease dataset with a focus on:
 - Deeper analysis of the features with the highest corraltation🔄
 - Feature interaction analysis⏳
 - Exang feature analysis
+
+## side note
+
+I was, well still am busy with final exams. But when i am done with them i plan to be more active again
