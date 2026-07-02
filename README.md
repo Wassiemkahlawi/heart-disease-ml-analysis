@@ -46,3 +46,4 @@ Analysis of a heart disease dataset with a focus on:
 ## side note
 
 I was, well still am busy with final exams. But when i am done with them i plan to be more active again
+Update: I am done with my final exams so i am ready to get going in Data science.
